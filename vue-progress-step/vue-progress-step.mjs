@@ -1587,7 +1587,7 @@ function j(e) {
 function Tt(e, t) {
   return { [e]: typeof t == "number" ? t + "px" : t };
 }
-const vr = (e) => (Hs("data-v-4e76a117"), e = e(), Ws(), e), Ir = { class: "progress-step" }, Dr = {
+const vr = (e) => (Hs("data-v-c1767328"), e = e(), Ws(), e), Ir = { class: "progress-step" }, Dr = {
   key: 0,
   class: "step-item_rect"
 }, Rr = /* @__PURE__ */ vr(() => /* @__PURE__ */ B("div", { class: "step-item_line" }, null, -1)), Cr = { class: "step-item_head" }, Tr = {
@@ -1608,15 +1608,15 @@ const vr = (e) => (Hs("data-v-4e76a117"), e = e(), Ws(), e), Ir = { class: "prog
   setup(e, { expose: t }) {
     const n = e;
     Or((R) => ({
-      11568421: y(j)(n.space),
-      "1b456c13": y(j)(a),
-      "217ebd3c": y(j)(h),
-      a38d11f8: y(j)(y(i)),
-      "5c9e6b63": y(j)(y(r)),
-      e3865aba: y(j)(l),
-      cb38c910: y(j)(y(c)),
-      cb492574: y(j)(y(u)),
-      "0f6b676c": y(j)(n.size)
+      "3ccfa390": y(j)(n.space),
+      "28f1d3ac": y(j)(a),
+      "506a06ab": y(j)(h),
+      "723cbadb": y(j)(y(i)),
+      "2ce0157a": y(j)(y(r)),
+      "54bc52fa": y(j)(l),
+      d5782de2: y(j)(y(c)),
+      d5888a46: y(j)(y(u)),
+      "96a0f95a": y(j)(n.size)
     }));
     let r = 100;
     const s = "#d2d2d", o = Vr(n, () => {
@@ -1673,7 +1673,7 @@ const Sn = (e, t) => {
   for (const [r, s] of t)
     n[r] = s;
   return n;
-}, Vn = /* @__PURE__ */ Sn(Fr, [["__scopeId", "data-v-4e76a117"]]), jr = {
+}, Vn = /* @__PURE__ */ Sn(Fr, [["__scopeId", "data-v-c1767328"]]), jr = {
   name: "vue-progress-step"
 }, zr = /* @__PURE__ */ ln({
   ...jr,
@@ -1695,7 +1695,7 @@ const Sn = (e, t) => {
     ], 4));
   }
 });
-const Hr = /* @__PURE__ */ Sn(zr, [["__scopeId", "data-v-52d836b0"]]);
+const Hr = /* @__PURE__ */ Sn(zr, [["__scopeId", "data-v-b12898d6"]]);
 let $t = !1;
 const Wr = [Hr, Vn];
 function Kr(e) {
